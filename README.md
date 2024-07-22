@@ -1,0 +1,1 @@
+# Deteksi-dan-Klarifikasi-Kendaraan-Menggunakan-Background-Subtraction-dengan-GMM-dan-LogReg
